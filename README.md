@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaganbharati
 - 👀 I’m interested in ... Men and Woman
-- 🌱 I’m currently learning ... web development
+- 🌱 I’m currently learning ... Mern fullstack web devloper
 
 - 📫 How to reach me ... Nirajns83@gmail.com
 
